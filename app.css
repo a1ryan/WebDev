@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    border: 3px solid black;
+}
+h2{
+    /* color: blue; */
+    background: lightblue;
+    /* border: 5px,solid,black; */
+}
+ul{
+    color: purple;
+}
+h4{
+    color: green;
+}
+
+body{
+    background:  lavender;
+}

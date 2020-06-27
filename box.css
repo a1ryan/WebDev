@@ -1,0 +1,15 @@
+p{
+    /* color: blue; */
+    /* width: 100px; to set the width of the box */
+    width: 50%; /*50% of the total size */
+    border: 4px solid black;
+    padding: 10px;
+   /* padding-left: 10px;to give padding on a particular side*/
+   /* margin: 100px; */
+   /* margin: top right bottom left; */
+   /* margin: 100 40 150 60; */
+   margin: 0 auto 0 auto;
+
+
+
+}

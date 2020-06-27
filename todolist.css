@@ -1,0 +1,14 @@
+li{
+    border: 2px solid pink;
+}
+/*an id is used to work on a particular element,one id name can be used only once in a html*/
+/*use #id_name selector to work on the selected id */
+#special{
+    background-color: aquamarine;
+}
+/*a class is used to work on multiple id at a time*/
+/*use .class_name to work on the class in css*/
+.completed{
+    text-decoration: line-through;
+}
+/* text decoration is used to style the text , line-through is used to draw a line over the text */
