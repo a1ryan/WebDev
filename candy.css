@@ -7,6 +7,9 @@ body{
     font-weight: 100;
     font-size: 2.5rem;
 }
+.content{
+    margin-top: 100px;
+}
 .this p{
     color: rgb(222, 115, 131);
     font-weight: 100;
